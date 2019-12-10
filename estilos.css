@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #ffffdd;
+}
+nav {
+    display: flex;
+    background: #800000;
+    padding: 10px;
+}
+h1 {
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    margin-right: 70%;
+}
+.menu {
+    color:FFF;
+    display:flex;
+    list-style: none;
+    font-family: sans-serif;
+}
+.menu li{
+    margin: 0px 15px;
+    background: #ffffdd;
+    padding: 5px;
+}
+footer {
+    display: flex;
+    background: #800000;
+    padding: 10px;
+}
+.minhaFoto {
+    width: 100px;
+    height:110px;
+}
+.rodape{
+    font-family: sans-serif;
+    color: #FFF;
+    list-style: none;
+    text-align: center;
+    padding: 20px;
+}
+.foto {
+
+    padding: 50px;
+    text-align: center;
+    list-style: none;
+
+}
